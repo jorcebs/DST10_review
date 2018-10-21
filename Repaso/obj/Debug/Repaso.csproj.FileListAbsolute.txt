@@ -1,0 +1,18 @@
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\bin\Debug\Repaso.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\bin\Debug\Repaso.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\bin\Debug\Repaso.pdb
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\obj\Debug\Repaso.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\obj\Debug\Repaso.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\obj\Debug\Repaso.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\obj\Debug\Repaso.csproj.GenerateResource.Cache
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\obj\Debug\Repaso.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\Repaso\Repaso\obj\Debug\Repaso.pdb
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\bin\Debug\Repaso.exe.config
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\obj\Debug\Repaso.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\obj\Debug\Repaso.pdb
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\bin\Debug\Repaso.exe
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\bin\Debug\Repaso.pdb
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\obj\Debug\Repaso.csprojResolveAssemblyReference.cache
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\obj\Debug\Repaso.Form1.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\obj\Debug\Repaso.Properties.Resources.resources
+G:\Facu\4to semestre\Estructura de Datos\Ejercicios en clase\10. Repaso\Repaso\obj\Debug\Repaso.csproj.GenerateResource.Cache
